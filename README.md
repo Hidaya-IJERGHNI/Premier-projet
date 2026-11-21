@@ -1,2 +1,3 @@
 # Premier-projet
-Mon premier projet web
+Mon premier projet.
+Mon premier projet avec git et github
